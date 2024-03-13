@@ -1,0 +1,9 @@
+{
+  "name": "SimpleSort",
+  "version_number": "0.8.0",
+  "website_url": "https://github.com/aedenthorn/ValheimMods/tree/master/SimpleSort",
+  "description": "Lets you sort player and container inventory by name, weight, or value using hotkeys, or automatically on open.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2200"
+  ]
+}

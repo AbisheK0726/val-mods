@@ -1,0 +1,9 @@
+{
+    "name": "UnrestrictedPortals",
+    "version_number": "1.4.2",
+    "website_url": "https://www.nexusmods.com/valheim/mods/61",
+    "description": "Unrestricted Portals is a mod that allows players to take any item through portals. The mod is highly customizable, allowing players to restrict or unrestrict every individual item.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1502"
+    ]
+}

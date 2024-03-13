@@ -1,0 +1,8 @@
+{
+    "name": "ItemWeightStackControl",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Adds some config options for item weight and stack size.",
+    "dependencies": [
+    ]
+}

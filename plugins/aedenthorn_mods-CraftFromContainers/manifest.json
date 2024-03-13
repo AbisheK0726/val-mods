@@ -1,0 +1,9 @@
+{
+    "name": "CraftFromContainers",
+    "version_number": "3.5.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/40",
+    "description": "Allows you to make use of resources in nearby containers when crafting, building, using smelters and kilns, refueling fires, cooking food, etc.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "AutoFuel",
+    "version_number": "1.2.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/159",
+    "description": "Automatically pulls fuel and ore for kilns and smelters from the ground and nearby containers.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}
