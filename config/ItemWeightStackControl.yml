@@ -1,0 +1,9 @@
+WeightMultiplier: 1
+StackMultiplier: 1
+ItemOverrides:
+  Wood:
+    Weight: 1
+    StackSize: 100
+  Stone:
+    Weight: 1
+    StackSize: 100
